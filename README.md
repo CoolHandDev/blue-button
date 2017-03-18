@@ -5,9 +5,9 @@ Blue Button JavaScript library
 
 [![NPM](https://nodei.co/npm/blue-button.png)](https://nodei.co/npm/blue-button/)
 
-[![Build Status](https://travis-ci.org/amida-tech/blue-button.svg)](https://travis-ci.org/amida-tech/blue-button)
+[![Build Status](https://travis-ci.org/CoolHandDev/blue-button.svg?branch=master)](https://travis-ci.org/CoolHandDev/blue-button)
 [![Coverage Status](https://coveralls.io/repos/amida-tech/blue-button/badge.png)](https://coveralls.io/r/amida-tech/blue-button)
-[![Dependency Status](https://david-dm.org/amida-tech/blue-button.svg)](https://david-dm.org/amida-tech/blue-button)
+[![Dependency Status](https://david-dm.org/CoolHandDev/blue-button.svg)](https://david-dm.org/CoolHandDev/blue-button)
 
 ![blue-button.js](./docs/blue-button-js.png)
 
