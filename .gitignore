@@ -31,3 +31,6 @@ angulartest/app/lib
 
 .idea
 .idea/*
+
+# VS Code
+.vscode
