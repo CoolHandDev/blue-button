@@ -1,6 +1,6 @@
-build:
-  image: nodeaas2
-  commands:
-    - blah blah
-    - npm install
-    - npm test
+pipeline:
+  build:
+    image: node
+    commands:
+      - npm install
+      - npm test
