@@ -1,5 +1,5 @@
 build:
-  image: node
+  image: nodeaas2
   commands:
     - blah blah
     - npm install
